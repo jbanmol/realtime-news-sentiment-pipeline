@@ -1,5 +1,11 @@
 # Realtime News Sentiment Pipeline
 
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?logo=fastapi&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-LLM_Inference-F55036)
+![Hacker News](https://img.shields.io/badge/Hacker_News-Live_Data-FF6600?logo=ycombinator&logoColor=white)
+![Sentiment](https://img.shields.io/badge/Sentiment-Analysis-0EA5E9)
+
 FastAPI data pipeline that fetches live Hacker News items and enriches them with LLM-generated sentiment and summaries using Groq-hosted Llama models.
 
 ## What This Demonstrates
